@@ -1,0 +1,90 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+use Path::Class;
+use File::Path qw(make_path);
+
+my $convert = {
+    'FRAD001' => '01-Ain',
+    'EC' => 'EtatCivil',
+};
+
+my $convert_part_commune = {
+    '-Le-' => '-le-',
+};
+
+my $base = dir("/home/vdanjean/travail/perso/genealogie/documents/ArchivesDépartementales");
+
+my @comp_check = (
+    qr/^FRAD001$/,
+    qr/^EC$/,
+    qr/^[A-Z-]+$/,
+    qr/^[0-9]{4}-[0-9]{4}$/,
+    qr/^(M|N|D|BMS)$/,
+    qr/^([0-9]+)\.([^.]*)$/,
+    );
+
+sub movefile {
+    my $f =shift;
+    if (! defined($f->stat)) {
+	print STDERR "W: skipping: unknown file '$f'\n";
+	return;
+    }
+    my @comp=split(/_/, $f->basename);
+    if (scalar(@comp) != 6) {
+	print STDERR "W: skipping: wrong number of components in '$f'\n";
+	return;
+    }
+    #my $ext;
+    for(my $i=0; $i<scalar(@comp); $i++) {
+	if ($comp[$i] !~ $comp_check[$i]) {
+	    print STDERR "W: skipping: invalid component '$comp[$i]' in '$f'\n";
+	    return;
+	}# elsif ($i == 5) {
+	#    $comp[$i] = $1;
+	#    $ext = $2;
+	#}
+	if (exists($convert->{$comp[$i]})) {
+	    $comp[$i]=$convert->{$comp[$i]};
+	} elsif ($i == 2) {
+	    $comp[$i] =~ s{ \b(\w+) }{\u\L$1}gx;
+	    while(my($key, $value) = each(%{$convert_part_commune})) {
+		$comp[$i] =~ s/$key/$value/g;
+	    }
+	}	
+    }
+    $comp[3] = join('_', $comp[3], $comp[4]);
+    splice(@comp, 4, 1);
+    pop @comp;
+    my $dest = file($base, @comp, $f->basename);
+    my $destdir = $dest->dir;
+    if (! defined($destdir->stat)) {
+	print "I: creating $destdir\n";
+	make_path($destdir,
+		  {
+		      'verbose' => 1,
+		  }
+	    );
+    }
+    if (defined($dest->stat)) {
+	print "W: skipping: '$dest' already exists\n";
+	return;
+    }
+    
+    print "I: moving $f -> $dest\n";
+    $f->move_to($dest);
+}
+
+
+for my $filename (@ARGV) {
+    my $f = file($filename);
+    my $d=movefile($f);
+    if (defined($d) && $d =~ /[.]jp2$/) {
+	my @prog = qw(kdu_expand -i input -o output);
+	$prog[2] = $d;
+	$prog[4] = file($d->dir, substr($d->basename,0,-3)."tiff");
+	print "I: running '".join("' '", @prog);
+	system(@prog);
+    }
+}
