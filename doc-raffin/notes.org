@@ -22,6 +22,22 @@
 **** 1771-1772
 ***** p2, page de droite, centre (baptême)
       http://www.archives.ain.fr/ark:/22231/vtae720fd0594f6d68b/daogrp/0/layout:table/idsearch:RECH_b344cf2162adadb0a0fa91c77bc00b95#id:314368244
+*** Registre des Actes de Décès
+**** 1817
+***** p4, page de droite, haut
+      http://www.archives.ain.fr/ark:/22231/vtab646e49f4ae699a4/daogrp/0/layout:table/idsearch:RECH_4a2e4ec07fbf6c6714edf1c229c74a3a#id:1221311453
+**** 1839
+***** p12, page de gauche, haut
+      http://www.archives.ain.fr/ark:/22231/vtae3bf55dcf6c3862a/daogrp/0/layout:table/idsearch:RECH_64ab2cdf940f6f68049876dfd9187d91#id:483616192
+**** 1841
+***** p10, page de gauche, haut et bas
+      http://www.archives.ain.fr/ark:/22231/vta8d965e465b223464/daogrp/0/layout:table/idsearch:RECH_2c1914d1b890a26b040d0ae3c571eead#id:1196848674
+**** 1857
+***** p3, page de gauche, haut
+      http://www.archives.ain.fr/ark:/22231/vta62fe1c32d7fbc47a/daogrp/0/layout:table/idsearch:RECH_d67d5ef1fae48980f4e7b5e96e195882#id:1492301090
+**** 1858
+***** p5, page de droite, haut
+      http://www.archives.ain.fr/ark:/22231/vtae4c6f94da299a079/daogrp/0/layout:table/idsearch:RECH_8b0156bb99f42ea82b8747e08ad9de73#id:1566638588
 *** Registre des Actes de Mariages
 **** 1804-1805
 ***** p2, page de gauche
@@ -45,9 +61,53 @@
 **** 1822
 ***** p14, page de droite, haut (naissance de Luce Coulon)
       http://www.archives.ain.fr/ark:/22231/vta8fec084f04473a54/daogrp/0/layout:table/idsearch:RECH_a78bae40bf5108fe51964da44c8627d7#id:1946185110
+**** 1836
+***** p14, page de gauche, bas
+      http://www.archives.ain.fr/ark:/22231/vtad90f23c358d63757/daogrp/0/layout:table/idsearch:RECH_3c63cef457c594c4e6f3f9a713037999#id:2102134986
 **** 1837
 ***** p12, page de droite, haut
       http://www.archives.ain.fr/ark:/22231/vtaa527fea8c2fa9224/daogrp/0/layout:table/idsearch:RECH_6a8852f1f6086d74c52f638e59966f02#id:869801452
 **** 1838
 ***** p6, page de droite, bas
       http://www.archives.ain.fr/ark:/22231/vta892752d9bd598de3/daogrp/0/layout:table/idsearch:RECH_360f03c9daca43998f19123988a155af#id:339444057
+**** 1839
+***** p2, page de droite, bas
+      http://www.archives.ain.fr/ark:/22231/vtaabd7ff1b7eadf1dd/daogrp/0/layout:table/idsearch:RECH_64ab2cdf940f6f68049876dfd9187d91#id:1569930549
+**** 1840
+***** p7, page de droite, bas
+      http://www.archives.ain.fr/ark:/22231/vta08e77aaa0de44412/daogrp/0/layout:table/idsearch:RECH_f25734bdffa3de0a46edf1857c1483b5#id:1338250246
+***** p12, page de droite, bas
+      http://www.archives.ain.fr/ark:/22231/vta08e77aaa0de44412/daogrp/0/layout:table/idsearch:RECH_f25734bdffa3de0a46edf1857c1483b5#id:1314238700
+**** 1842
+***** p4, page de droite, bas
+      http://www.archives.ain.fr/ark:/22231/vta8317dacf2329556c/daogrp/0/layout:table/idsearch:RECH_03d75a321a837cce2ba9797f5469b40a#id:1127340343
+***** p17, page de droite, bas
+      http://www.archives.ain.fr/ark:/22231/vta8317dacf2329556c/daogrp/0/layout:table/idsearch:RECH_03d75a321a837cce2ba9797f5469b40a#id:1158740057
+***** p18, page de gauche, hait (suite du précédent)
+      http://www.archives.ain.fr/ark:/22231/vta8317dacf2329556c/daogrp/0/layout:table/idsearch:RECH_03d75a321a837cce2ba9797f5469b40a#id:1159663578
+**** 1843
+***** p14, page de gauche, haut
+      http://www.archives.ain.fr/ark:/22231/vta7c19471d337edf5a/daogrp/0/layout:table/idsearch:RECH_ff66e7cb0c3e3f704174233e0491eb5f#id:1904817226
+**** 1850
+***** p6, page de gauche, bas
+      http://www.archives.ain.fr/ark:/22231/vta7e36ae3f16eee066/daogrp/0/layout:table/idsearch:RECH_1259265427341589c31b183cf78082e6#id:1734281575
+**** 1852
+***** p8, page de droite, bas
+      http://www.archives.ain.fr/ark:/22231/vta4fe3aa5979f8cdf3/daogrp/0/layout:table/idsearch:RECH_86a8b57dca848ed290378427a3444f64#id:735926619
+**** 1856
+***** p15, page de gauche, haut
+      http://www.archives.ain.fr/ark:/22231/vtac5033c6611df3c9d/daogrp/0/layout:table/idsearch:RECH_84757bb9994563dadb645653f44a4e14#id:1403540215
+**** 1890
+***** p1, page de gauche, bas
+      http://www.archives.ain.fr/ark:/22231/vta7c47ad08dcf65cb2/daogrp/0/layout:table/idsearch:RECH_4ab3a712446c0c06f8856ed0fa4e5818#id:975636884
+** Vernoux
+*** Registre des déclarations de Naissances
+**** 1887
+***** p6, page de droite, bas
+      http://www.archives.ain.fr/ark:/22231/vta8dd0d56f95372a1d/daogrp/0/layout:table/idsearch:RECH_6c3be1cece959e4661bf8480613af090#id:1064823185
+**** 1889
+***** p2, page de gauche, bas
+      http://www.archives.ain.fr/ark:/22231/vta0fdebbe379fd1a75/daogrp/0/layout:table/idsearch:RECH_b9b58bf82c6abfcbfb41391b9a8b94cf#id:38819038
+**** 1891
+***** p16, page de gauche, haut
+      http://www.archives.ain.fr/ark:/22231/vta0fdebbe379fd1a75/daogrp/0/layout:table/idsearch:RECH_b9b58bf82c6abfcbfb41391b9a8b94cf#id:6495803
