@@ -9,6 +9,59 @@
 **** 1859
 ***** p16, page de gauche, haut et bas
       http://www.archives.ain.fr/ark:/22231/vta831a8a60d334f4a4/daogrp/0/layout:table/idsearch:RECH_bec83edfaf50682d9d7c9714edb3df63#id:1168284247
+****** Texte
+       (en marge) : N°5 NAISSANCE de Raffin Marie Josephte
+
+       L'an mil huit cent soixante, et le onze du mois de février à
+       onze heures du matin par-devant nous Pariset Joseph
+       remplissant en qualité de Maire les fonctions d'Officier de
+       l'état civil de la commune de Curciat Dongalon de Saint Trivier
+       de Courtes, département de l'Ain, a comparu Raffin Pierre
+       Marie âgé de quarante (cinq) ans profession de cultivateur
+       domicilié à Curciat Dongalon, lequel nous a présenté un
+       enfant du sexe féminin né en cette commune au domicile du
+       déclarant au montalapiat le jour d'hier à deux heures du soir,
+       fille de la déclarante Coulon Marie Louise, son épouse âgée de
+       trente huit ans, cultivatrice domiciliée au même lieu et auquel
+       il a été déclaré donner les prénoms de Marie Josephte.
+
+       Ces déclaration et présentation faites en présence de 1° Sarron
+       Joseph âgé de quarante sept ans, profession de cultivateur,
+       domicilié à Curciat Dongalon 2° Tréboz Jean Claude âgé de
+       quarante trois ans, profession de boucher, domicilié au même
+       lieu. De quoi nous avons dressé et inscrit de suite sur les
+       deux registres tenus à cet effet le présent acte de naissance,
+       dont nous avons fait lecture au comparant et aux témoins qui
+       n'ont signé avec nous pour ne savoir de ce par nous requis.
+
+       Pariset
+
+       (en marge)   N=° 6   NAISSANCE de Raffin Louis Claude -
+
+       L'an mil huit cent soixante et le onze de mois de février à
+       onze heures du matin par-devant nous Pariset Joseph remplissant
+       en qualité de maire les fonctions d' Officier de l'état civil
+       de la commune de Curciat Dongalon de Saint Trivier de Courtes,
+       département de l'Ain, a comparu Raffin Pierre Marie âgé de
+       quarante (huit) ans profession de cultivateur domicilié à
+       Curciat Dongalon lequel nous a présenté un Enfant de sexe
+       masculin né en cette commune au domicile du déclarant au
+       montalapiat le jour d'hier à trois heures du soir, fils de du
+       déclarant et de Coulon Marie Louise son épouse âgée de trente
+       huit ans, cultivatrice domiciliée au même lieu et auquel il a
+       été déclaré donner les prénoms de Louis Claude.
+
+       Ces déclaration et présentation faites en présence de 1° Sarron
+       Joseph âgé de de quarante sept ans, profession de cultivateur
+       domicilié à Curciat Dongalon, 2° Tréboz Jean Claude âgé de
+       quarante trois ans, profession de boucher, domicilié au même
+       lieu. De quoi nous avons dressé et inscrit de suite sur les
+       deux registres tenus à cet effet le présent acte de naissance
+       dont nous avons fait lecture au comparant et aux témoins qui
+       n'ont signé avec nous pour ne savoir de ce par nous requis.
+
+       Pariset
+
 ** Lescheroux
 *** Registre des Actes de Décès
 **** 1866-1869
@@ -39,6 +92,8 @@
        l'épouse, Antoine Billet beaufrère de l'époux François Gras
        oncle de l'épouse Marie Filliardet mère de l'époux lesquels sont 
        XXX de ce enquis.
+
+       Pegeffe
 
 ****** Autres sources à creuser :
        http://gw.geneanet.org/kifrifard?lang=en&v=GADOLLET&m=N
