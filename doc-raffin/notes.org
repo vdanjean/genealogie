@@ -1,3 +1,7 @@
+#+TITLE: Actes et documents officiels branche Claudius Raffin
+#+OPTIONS: H:4
+#+OPTIONS: toc:4
+
 * archives de l'Ain
 ** Courtes
 *** Registre des Actes de Mariages
